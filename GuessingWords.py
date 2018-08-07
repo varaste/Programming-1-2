@@ -8,6 +8,7 @@ correct = answer
 
 rumble = ""
 
+
 while answer:
     position = random.randrange(len(answer))
     rumble += answer[position]
